@@ -1,6 +1,6 @@
 def main():
     """Вывод приветствия в консоль"""
-    print("Hello, world!!!!")
+    print("Oh, hello, world!!!!")
 
 if __name__ == "__main__":
     main()
